@@ -4,9 +4,9 @@
 
 ## Why should I use the methods described in this book?
 
-User Need Research helps us to find out how and why users do what they do. Why is this important? Using this knowledge we can create products or services that matter for the users and match their needs in daily life.  Even if your idea and the final outcome is actually awesome, it still needs to find its place in the user's life. It can be helpful to consider existing motivations, activities and problems the users have and to know the context the interaction happens in. Will they be motivated or tired? What other products do they use in the situations in which your idea may matter? How may other people influence the interaction?
+User Need Research helps us find out how and why users do what they do. Why is this important? Using this knowledge we can create products or services that matter for the users and match their needs in daily life.  Even if your idea and the final outcome is actually awesome, it still needs to find its place in the user's life. It can be helpful to consider existing motivations, activities and problems the users have and to know the context the interaction happens in. Will they be motivated or tired? What other products do they use in the situations in which your idea may matter? How may other people influence the interaction?
 
-It can naturally happen that you find out that your assumptions about the users are not totally right. This may feel bad at first. But even if the user's actions don't make sense to you immediately , they do make sense for the users. If you find out, you can adjust your assumptions and build upon your newly gained knowledge. You may also get new ideas by researching your users needs: An unexpected concept a user holds, a clever hack they used to solve a problem may spark new ideas – Ideas which will be based on user needs.
+It can naturally happen that you find out your assumptions about the users are not totally right. This may feel bad at first. But even if the user's actions don't make sense to you immediately, they do make sense for the users. After finding this out, you can adjust your assumptions and build upon your newly gained knowledge. You may also get new ideas by researching your users needs: an unexpected concept a user holds, a clever hack they used to solve a problem may spark new ideas – ideas which will be based on user needs.
 
 ## Is this like usability testing?
 
@@ -16,18 +16,18 @@ Often, usability testing is done with a nearly finished product, at a location u
 
 ## Couldn't I just ask what they want?
 
-Since we talk about finding user needs, an obvious question is if we could not just ask them what they want and just build it. But this may not be a good idea.
+Since we talk about finding user needs, an obvious question is if we could not just ask those users what they want and just build it. But this may not be a good idea.
 
 Usually, people want a better version of what they already have.  Henry Ford allegedly said »If I had asked people what they wanted, they would have said faster horses«. Instead of faster horses, Ford sold a product that satisfied an underlying motivation – getting quickly from A to B – instead of the specific wish.
 
-Getting to know about the underlying motivation (why do they want to get from A to B?), the activities (How do they currently get from A to B) and their problems (What is currently unpleasant about getting from A to B) is what helps us to understand users better.
+Getting to know about the underlying motivation (why do they want to get from A to B?), the activities (how do they currently get from A to B) and their problems (what is currently unpleasant about getting from A to B) is what helps us to understand users better.
 
-This does not mean that what people wish can or should be ignored or that some ingenious designer is needed to show them their true needs. I just want to say that asking for needs directly and than just building it is not as simple and helpful as it seems intuitively.
+This does not mean that what people wish can or should be ignored or that some ingenious designer is needed to show them their true needs. I just want to say that asking for needs directly and than just building it is not as simple and helpful as it might seem.
 
 
 ## In which situations/project state can I use these methods?
 
-Methods for finding user needs are usually applied in early project stages. The focus is not on evaluating what has been build so much, but more on how to improve future designs. So the research takes place before you decide which features go in the product and how they exactly work. Here are some scenarios in which finding out about the how and why about the user's work makes sense:
+Methods for finding user needs are usually applied in early project stages. The focus is not on evaluating what has been built, but more on how to improve future designs. So the research takes place before you decide which features go in the product and how they exactly work. Here are some scenarios in which finding out about the how and why about the user's work makes sense:
 
 1. There is a broad topic given which you want to explore further.
 
